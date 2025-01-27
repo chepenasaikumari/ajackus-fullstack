@@ -1,0 +1,47 @@
+.App {
+  text-align: center;
+  font-family: Arial, sans-serif;
+}
+
+table {
+  width: 80%;
+  margin: auto;
+  border-collapse: collapse;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+input, select {
+  margin: 5px;
+  padding: 8px;
+  width: 60%;
+}
+
+button {
+  padding: 10px 20px;
+  background-color: #4caf50;
+  color: white;
+  border: none;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+@media (max-width: 600px) {
+  table {
+      width: 100%;
+  }
+
+  input, select {
+      width: 90%;
+  }
+}
