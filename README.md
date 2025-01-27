@@ -27,7 +27,6 @@ https://github.com/chepenasaikumari/ajackus-fullstack.git
 - **React**: For building the user interface.
 - **Tailwind CSS**: For styling.
 - **React Router**: For navigation and routing.
-- **Pagination**: Implemented for handling large datasets efficiently.
 - **Lazy Loading**: To improve performance by loading components as needed.
 - **Error Management**: Proper error handling for better user experience.
 - **Responsive Design**: Fully responsive layout for different screen sizes.
@@ -65,9 +64,6 @@ This will generate the `build` folder containing the production-ready app.
 
 ### 🔧 **Error Management**
 - Handles unexpected errors gracefully to ensure the application remains functional.
-
-### 📜 **Pagination**
-- Efficiently manages large datasets by dividing them into smaller, more manageable pages.
 
 ### ⚡ **Lazy Loading**
 - Improves performance by loading components and resources only when needed.
