@@ -27,8 +27,6 @@ https://github.com/chepenasaikumari/ajackus-fullstack.git
 - **React**: For building the user interface.
 - **Tailwind CSS**: For styling.
 - **React Router**: For navigation and routing.
-- **Lazy Loading**: To improve performance by loading components as needed.
-- **Error Management**: Proper error handling for better user experience.
 - **Responsive Design**: Fully responsive layout for different screen sizes.
 
 ## ⚙️ **Setup Instructions**
